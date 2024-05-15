@@ -28,7 +28,7 @@ google-generativeai==0.5.2
 
 langchain==0.1.16
 langchain-community==0.0.34
-langchain-chroma==0.1.0
+langchain-chroma==0.1.1
 
 fake-useragent==1.5.1
 chromadb==0.4.24
